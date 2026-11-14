@@ -1,0 +1,14 @@
+{
+  "background_color": "#ffffff",
+  "description": "Princess Sophia (@missvsophia) — official tribute shrine: bio, photos, tribute walls, socials and wallets.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Princess Sophia.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Princesssophia.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "Boss Princess Sophia",
+  "lang": "en"
+}
